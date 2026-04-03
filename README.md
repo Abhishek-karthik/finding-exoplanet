@@ -19,7 +19,7 @@ NASA's Kepler Space Telescope has discovered thousands of exoplanets by measurin
 1. **Data Normalization** - Mean normalization to standardize flux values across different scales
 2. **Feature Engineering** - Fast Fourier Transform (FFT) to extract frequency domain features
 3. **Data Balancing** - SMOTE (Synthetic Minority Over-Sampling Technique) to handle class imbalance
-4. **Classification** - Random Forest Classifier with 50 decision trees
+4. **Classification** - Random Forest Classifier with 50 trees
 
 ## 📊 Dataset
 
